@@ -1,0 +1,2 @@
+guadaperasso,exterior,Sushi,20000,1000.0,4
+guadaperasso,exterior,Milanesa,12000,600.0,5

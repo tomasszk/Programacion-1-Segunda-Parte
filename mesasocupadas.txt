@@ -1,0 +1,2 @@
+Interior - Ocupadas: 0, Desocupadas: 5
+Exterior - Ocupadas: 0, Desocupadas: 5

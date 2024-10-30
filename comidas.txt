@@ -1,0 +1,7 @@
+Sushi - $20000
+Pizza - $8000
+Hamburguesa - $6000
+Milanesa - $12000
+Pasta - $15000
+Asado - $20000
+Helado - $5000
